@@ -6,7 +6,7 @@
           <v-flex xs12 sm12 md8>
             <v-card class="elevation-12">
               <v-toolbar dark color="light-green">
-                <v-toolbar-title>Boardgames Stock</v-toolbar-title>
+                <v-toolbar-title>Boardgames Shelf</v-toolbar-title>
                 <v-spacer></v-spacer>
                 <v-tabs class="tabs" right dark color="light-green  " slider-color="accent">
                   <v-tab grow="false" :to="{ name: 'home'}">Home</v-tab>
